@@ -6,9 +6,9 @@
 - 💬 Ask me about **.Net and Angular**
 
 - 📫 How to reach me **victorhugoddv@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/victor-hugo-duarte-do-vale-b49b47b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bta7ZMxeMSRCK9FEI%2BDwgwQ%3D%3D](https://www.linkedin.com/in/victor-hugo-duarte-do-vale-b49b47b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bta7ZMxeMSRCK9FEI%2BDwgwQ%3D%3D)
-
+  
+- 📄 Know about my experiences [https://www.linkedin.com/in/victor-hugo-duarte-do-vale-b49b47b7/](https://www.linkedin.com/in/victor-hugo-duarte-do-vale-b49b47b7/)
+  
 - ⚡ Fun fact **I am originally an environmental engineer**
 
 <h3 align="left">Connect with me:</h3>
